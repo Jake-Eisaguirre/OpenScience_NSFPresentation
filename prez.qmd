@@ -1,0 +1,30 @@
+---
+format: 
+  revealjs:
+    theme: dark
+    transition: slide
+    embed-resources: true
+editor: visual
+---
+
+## What is 'Open Science' - RIBBiTR {style="text-align: center;"}
+
+<hr color = #cadc30>
+
+<br/>
+
+
+
+<b> Jake Eisaguirre [^1] </b>
+
+![](images/great_frog.jpg){fig-align="center"}
+
+[^1]: Resilience Institute Bridging Biological Training and Research
+
+------------------------------------------------------------------------
+
+## Open Science
+
+<hr color = #cadc30>
+
+------------------------------------------------------------------------
