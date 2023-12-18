@@ -13,13 +13,11 @@ editor: visual
 
 <br/>
 
-
-
 <b> Jake Eisaguirre [^1] </b>
 
-![](images/great_frog.jpg){fig-align="center"}
-
 [^1]: Resilience Institute Bridging Biological Training and Research
+
+![](images/great_frog.jpg){fig-align="center" width="4.79in" height="3.34in"}
 
 ------------------------------------------------------------------------
 
