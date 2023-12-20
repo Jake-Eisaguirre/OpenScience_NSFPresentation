@@ -30,6 +30,9 @@ $~$
 
 </h2>
 
+::: notes
+:::
+
 ------------------------------------------------------------------------
 
 ## Open Science Principles {.smaller}
@@ -55,6 +58,9 @@ $~$
 :::
 :::
 
+::: notes
+:::
+
 ------------------------------------------------------------------------
 
 ## Open Science at RIBBiTR {.smaller}
@@ -63,12 +69,13 @@ $~$
 
 ::: columns
 ::: {.incremental .column width="42%"}
-<h2 style = "font-size: 16.0pt;">
+<h2 style="font-size: 16.0pt;">
+
 1.  Accessible
-    - Cloud based PostgreSQL Database
-    - Database made public upon grant completion
-    - RStudio (R), Jupyter Notebook (Python), and DBeaver (PostgreSQL)
-    - Published papers unlocked?
+    -   Cloud based PostgreSQL Database
+    -   Database made public upon grant completion
+    -   RStudio (R), Jupyter Notebook (Python), and DBeaver (PostgreSQL)
+    -   Published papers unlocked?
 2.  Reproducible
     -   Reproducible analysis in R and Python
     -   Quarto manuscripts, documents, and presentations
@@ -77,18 +84,29 @@ $~$
     -   CURE?
     -   PEP?
     -   R101?
+
 </h2>
 :::
 
 ::: {.column width="58%"}
+
 :::
+
 :::
+
+::: notes
+:::
+
 
 ------------------------------------------------------------------------
 
 ## Open Science for the Greater Good of Science {style="font-size:24.0pt;"}
 
 <hr color = #CADC30>
+
+
+::: notes
+:::
 
 ------------------------------------------------------------------------
 
