@@ -7,9 +7,11 @@ format:
 editor: visual
 ---
 
-## What is 'Open Science' - RIBBiTR {style="text-align: center;"}
+## What is 'Open Science'  {style="text-align: center;"}
 
 <hr color = #cadc30>
+
+![](images/great_frog.jpg){fig-align="center" width="4.79in" height="3.34in"}
 
 <br/>
 
@@ -17,11 +19,15 @@ editor: visual
 
 [^1]: Resilience Institute Bridging Biological Training and Research
 
-![](images/great_frog.jpg){fig-align="center" width="4.79in" height="3.34in"}
-
 ------------------------------------------------------------------------
 
 ## Open Science
+
+<hr color = #cadc30>
+
+------------------------------------------------------------------------
+
+## Open Science at RIBBiTR
 
 <hr color = #cadc30>
 
