@@ -40,7 +40,7 @@ $~$
 <hr color = #CADC30>
 
 ::: columns
-::: {.incremental .column width="30%"}
+::: {.incremental .column width="32%"}
 1.  Accessible
     -   Open access literature
     -   Open source software
@@ -53,7 +53,7 @@ $~$
     -   Expand Participation
 :::
 
-::: {.column width="70%"}
+::: {.column width="68%"}
 ![](images/os.jpg){fig-align="center" width="6in"}
 :::
 :::
@@ -69,77 +69,64 @@ $~$
 
 ::: columns
 ::: {.column width="42%"}
-::: {.fragment .fade-in-then-out}
-<h2 style="font-size: 16.0pt;">
-
-1.  Accessible
-    -   Cloud based PostgreSQL Database
-
-</h2>
-:::
-::: {.fragment .fade-in-then-out}
 <h2 style="font-size: 16.0pt;">
 
 1.  Accessible
     -   Cloud based PostgreSQL Database
     -   Database made public upon grant completion
-    -   RStudio (R), Jupyter Notebook (Python), and DBeaver (PostgreSQL)
+    -   RStudio (R), Jupyter Lab (Python), and DBeaver (PostgreSQL)
     -   Published papers unlocked?
+
+</h2>
+
+::: {.fragment .fade-in}
+<h2 style="font-size: 16.0pt;">
+
+2.  Reproducible
+    -   Reproducible analysis in R and Python
+    -   Quarto manuscripts, documents, and presentations
+    -   Collaboration with Git/Github in RStudio (R) and Jupyter Notebook (Python)
+
+</h2>
+:::
+
+::: {.fragment .fade-in}
+<h2 style="font-size: 16.0pt;">
+
+3.  Inclusive
+    -   CURE?
+    -   PEP?
+    -   R101?
 
 </h2>
 :::
 :::
 
 ::: {.column width="58%"}
-::: {.r-stack}
+::: {.fragment .r-stack fragment-index="1"}
 ![](images/RIBBiTR%20-%20survey_data.png){fig-align="center" width="6in"}
 
-::: {.fragment .r-stack }
+::: {.fragment .r-stack fragment-index="2"}
 ![](images/dataone.png){fig-align="center" width="6in"}
 :::
+
+::: {.fragment .r-stack fragment-index="3"}
+![](images/rstudio.png){fig-align="center" width="6in"}
+:::
+
+::: {.fragment .r-stack fragment-index="4"}
+![](images/jup.jpeg){fig-align="center" width="4in"}
+:::
+
+::: {.fragment .r-stack fragment-index="5"}
+![](images/beaver.png){fig-align="center" width="6in"}
 :::
 :::
 :::
+:::
 
-<!-- 2.  Reproducible -->
-
-<!--     -   Reproducible analysis in R and Python -->
-
-<!--     -   Quarto manuscripts, documents, and presentations -->
-
-<!--     -   Collaboration with Git/Github in RStudio (R) and Jupyter Notebook (Python) -->
-
-<!-- 3.  Inclusive -->
-
-<!--     -   CURE? -->
-
-<!--     -   PEP? -->
-
-<!--     -   R101? -->
-
-<!-- ::: -->
-
-<!-- ::: {.column .incremental width="58%"} -->
-
-<!-- ::: {.fragment fragment-index=1} -->
-
-<!-- ![](images/RIBBiTR - survey_data.png){fig-align="center" width="6in"} -->
-
-<!-- ::: -->
-
-<!-- ::: {.fragment} -->
-
-<!-- ![](images/dataone.png){fig-align="center" width="6in"} -->
-
-<!-- ::: -->
-
-<!-- ::: -->
-
-<!-- ::: -->
-
-<!-- ::: notes -->
-
-<!-- ::: -->
+::: notes
+:::
 
 ------------------------------------------------------------------------
 
@@ -156,6 +143,14 @@ $~$
 
 <hr color = #CADC30>
 
--   Ramachandran, R., Bugbee, K., & Murphy, K. (2021). From open data to open science. Earth and Space Science, 8, e2020EA001562. https://doi.org/10.1029/2020EA001562
+-   Ramachandran, R., Bugbee, K., & Murphy, K.
+    (2021).
+    From open data to open science.
+    Earth and Space Science, 8, e2020EA001562.
+    https://doi.org/10.1029/2020EA001562
+
+-   https://github.com/DataONEorg
+
+-   https://posit.co/
 
 ------------------------------------------------------------------------
