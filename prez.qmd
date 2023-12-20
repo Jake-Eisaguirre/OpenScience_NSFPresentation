@@ -32,12 +32,22 @@ $~$
 
 ------------------------------------------------------------------------
 
-## Open Science
+## Open Science Principles {.smaller}
 
 <hr color = #CADC30>
 
 ::: columns
-::: {.column .incremental width="30%"}
+::: {.incremental .column width="30%"}
+1.  Accessible
+    -   Open access literature
+    -   Open source software
+    -   Public data repository
+2.  Reproducible
+    -   Open Collaboration
+    -   Open Tools
+3.  Inclusive
+    -   New Pathways to Science
+    -   Expand Participation
 :::
 
 ::: {.column width="70%"}
@@ -47,14 +57,45 @@ $~$
 
 ------------------------------------------------------------------------
 
-## Open Science at RIBBiTR
+## Open Science at RIBBiTR {.smaller}
+
+<hr color = #CADC30>
+
+::: columns
+::: {.incremental .column width="42%"}
+<h2 style = "font-size: 16.0pt;">
+1.  Accessible
+    - Cloud based PostgreSQL Database
+    - Database made public upon grant completion
+    - RStudio (R), Jupyter Notebook (Python), and DBeaver (PostgreSQL)
+    - Published papers unlocked?
+2.  Reproducible
+    -   Reproducible analysis in R and Python
+    -   Quarto manuscripts, documents, and presentations
+    -   Collaboration with Git/Github in RStudio (R) and Jupyter Notebook (Python)
+3.  Inclusive
+    -   CURE?
+    -   PEP?
+    -   R101?
+</h2>
+:::
+
+::: {.column width="58%"}
+:::
+:::
+
+------------------------------------------------------------------------
+
+## Open Science for the Greater Good of Science {style="font-size:24.0pt;"}
 
 <hr color = #CADC30>
 
 ------------------------------------------------------------------------
 
-## Open Science for the Greater Good of Science
+## Citations
 
 <hr color = #CADC30>
+
+-   Ramachandran, R., Bugbee, K., & Murphy, K. (2021). From open data to open science. Earth and Space Science, 8, e2020EA001562. https://doi.org/10.1029/2020EA001562
 
 ------------------------------------------------------------------------
