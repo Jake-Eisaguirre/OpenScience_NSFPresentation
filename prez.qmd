@@ -4,31 +4,36 @@ format:
     theme: dark
     transition: slide
     embed-resources: true
+    logo: images/ribbitr.jpg
 editor: visual
 ---
 
-## What is 'Open Science'  {style="text-align: center;"}
+## What is 'Open Science' {style="text-align:center;"}
 
-<hr color = #cadc30>
+<hr color = #CADC30>
 
-![](images/great_frog.jpg){fig-align="center" width="4.79in" height="3.34in"}
+![](images/great_frog.jpg){fig-align="center" width="5.33in"}
 
-<br/>
-
-<b> Jake Eisaguirre [^1] </b>
-
-[^1]: Resilience Institute Bridging Biological Training and Research
+<h2 style="text-align:center; font-size:22.0pt;">
+Jake Eisaguirre^1,2^\
+Data Manager, M.S. Environmental Data Science
+</h2>
+$~$
+<h2 style="font-size: 12.0pt; text-align:left;">
+^1^Resilience Institute Bridging Biological Training and Research\
+^2^National Center of Ecological Analysis and Synthesis
+</h2>
 
 ------------------------------------------------------------------------
 
 ## Open Science
 
-<hr color = #cadc30>
+<hr color = #CADC30>
 
 ------------------------------------------------------------------------
 
 ## Open Science at RIBBiTR
 
-<hr color = #cadc30>
+<hr color = #CADC30>
 
 ------------------------------------------------------------------------
