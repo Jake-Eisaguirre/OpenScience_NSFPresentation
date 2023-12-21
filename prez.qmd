@@ -103,30 +103,28 @@ $~$
 :::
 
 ::: {.column width="58%"}
-
-::: {.fragment .r-stack fragment-index="1"}
+::: {.fragment .r-stack .fade-in fragment-index="1"}
 ![](images/RIBBiTR%20-%20survey_data.png){fig-align="center" width="6in"}
 
-::: {.fragment .r-stack fragment-index="2" .current-visible}
+::: {.fragment .r-stack .current-visible fragment-index="2"}
 ![](images/rstudio.png){fig-align="center" width="6in"}
 :::
 
-::: {.fragment .r-stack fragment-index="3" .current-visible}
+::: {.fragment .r-stack .current-visible fragment-index="3"}
 ![](images/jup.jpeg){fig-align="center" width="4in"}
 :::
 
-::: {.fragment .r-stack fragment-index="4" .current-visible}
+::: {.fragment .r-stack .current-visible fragment-index="4"}
 ![](images/beaver.png){fig-align="center" width="6in"}
 :::
 
-::: {.fragment .r-stack fragment-index="5" .current-visible}
+::: {.fragment .r-stack .current-visible fragment-index="5"}
 ![](images/dataone.png){fig-align="center" width="6in"}
 :::
 
-
-:::
 ::: {.fragment .r-stack fragment-index="6"}
-
+![](images/reproducible_pipeline.jpg){fig-align="center" width="6in" height="4in"}
+:::
 :::
 :::
 :::
