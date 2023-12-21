@@ -65,6 +65,8 @@ Well what is open science? Maybe you have heard the term but are uncertain what 
 Accessibility encompasses open access to literature, meaning do researchers have to pay to read your papers. Open source software where there is no licencing costs, like RStudio, and unlike ArcGIS. And public data repositories. 
 
 Reproducibility encompasses open collaboration and open tools. Essentially can you share your work with a colleague and then can download the necessary software free of cost, access the data, run the analysis/script with out errors, and see the same output you created on your end. Tools like git and github allow for streamlined collaboration.  
+
+And finally Inclusivity, are we developing these pipelines with the commitment of diversity and inclusion to expand participation and partnerships.   
 :::
 
 ------------------------------------------------------------------------
