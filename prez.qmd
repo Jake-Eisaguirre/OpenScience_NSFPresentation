@@ -31,6 +31,7 @@ $~$
 </h2>
 
 ::: notes
+My names Jake Eisaguirre and I am the Data Manager for RIBBiTR. We are institute that studies a fungal pathogen in Amphibians across the western hemisphere. At RIBBiTR we have a lot of fascinating research uncovering the mechanisms of this disease, however I am going to spend this time discussing the application of open science at RIBBiTR and the value it can bring to science as a hole.
 :::
 
 ------------------------------------------------------------------------
@@ -59,6 +60,7 @@ $~$
 :::
 
 ::: notes
+
 :::
 
 ------------------------------------------------------------------------
