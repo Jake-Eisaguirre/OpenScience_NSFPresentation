@@ -5,6 +5,7 @@ format:
     transition: slide
     embed-resources: true
     logo: images/ribbitr.jpg
+    css: logo.css
 editor: visual
 ---
 
