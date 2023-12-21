@@ -31,7 +31,9 @@ $~$
 </h2>
 
 ::: notes
-My names Jake Eisaguirre and I am the Data Manager for RIBBiTR. We are institute that studies a fungal pathogen in Amphibians across the western hemisphere. At RIBBiTR we have a lot of fascinating research uncovering the mechanisms of this disease, however I am going to spend this time discussing the application of open science at RIBBiTR and the value it can bring to science as a hole.
+My names Jake Eisaguirre and I am the Data Manager for RIBBiTR.
+We are institute that studies a fungal pathogen in Amphibians across the western hemisphere.
+At RIBBiTR we have a lot of fascinating research uncovering the mechanisms of this disease, however I am going to spend this time discussing the application of open science at RIBBiTR and the value it can bring to science as a hole.
 :::
 
 ------------------------------------------------------------------------
@@ -60,13 +62,21 @@ My names Jake Eisaguirre and I am the Data Manager for RIBBiTR. We are institute
 :::
 
 ::: notes
-Well what is open science? Maybe you have heard the term but are uncertain what it entails, maybe you know the term but uncertain how to apply it, or maybe this is a completely new term. Open science is quickly gaining traction in the academic setting and starting to grain traction in the private sector. You can think of open science as an umbrella term encompassing the movement to make research and its dissemination accessible at all levels. Within the term of open science you can think of it broken down into three sectors: Accessibility, Reproducibility, and Exclusivity. 
+Well what is open science?
+Maybe you have heard the term but are uncertain what it entails, maybe you know the term but uncertain how to apply it, or maybe this is a completely new term.
+Open science is quickly gaining traction in the academic setting and starting to grain traction in the private sector.
+You can think of open science as an umbrella term encompassing the movement to make research and its dissemination accessible at all levels.
+Within the term of open science you can think of it broken down into three sectors: Accessibility, Reproducibility, and Exclusivity.
 
-Accessibility encompasses open access to literature, meaning do researchers have to pay to read your papers. Open source software where there is no licencing costs, like RStudio, and unlike ArcGIS. And public data repositories. 
+Accessibility encompasses open access to literature, meaning do researchers have to pay to read your papers.
+Open source software where there is no licencing costs, like RStudio, and unlike ArcGIS.
+And public data repositories.
 
-Reproducibility encompasses open collaboration and open tools. Essentially can you share your work with a colleague and then can download the necessary software free of cost, access the data, run the analysis/script with out errors, and see the same output you created on your end. Tools like git and github allow for streamlined collaboration.  
+Reproducibility encompasses open collaboration and open tools.
+Essentially can you share your work with a colleague and then can download the necessary software free of cost, access the data, run the analysis/script with out errors, and see the same output you created on your end.
+Tools like git and github allow for streamlined collaboration.
 
-And finally Inclusivity, are we developing these pipelines with the commitment of diversity and inclusion to expand participation and partnerships.   
+And finally Inclusivity, are we developing these pipelines with the commitment of diversity and inclusion to expand participation and partnerships.
 :::
 
 ------------------------------------------------------------------------
