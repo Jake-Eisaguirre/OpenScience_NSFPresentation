@@ -73,13 +73,13 @@ $~$
 
 1.  Accessible
     -   Cloud based PostgreSQL Database
-    -   Database made public upon grant completion
     -   RStudio (R), Jupyter Lab (Python), and DBeaver (PostgreSQL)
+    -   Database made public upon grant completion
     -   Published papers unlocked?
 
 </h2>
 
-::: {.fragment .fade-in}
+::: {.fragment .fade-in fragment-index="6"}
 <h2 style="font-size: 16.0pt;">
 
 2.  Reproducible
@@ -103,24 +103,30 @@ $~$
 :::
 
 ::: {.column width="58%"}
+
 ::: {.fragment .r-stack fragment-index="1"}
 ![](images/RIBBiTR%20-%20survey_data.png){fig-align="center" width="6in"}
 
-::: {.fragment .r-stack fragment-index="2"}
-![](images/dataone.png){fig-align="center" width="6in"}
-:::
-
-::: {.fragment .r-stack fragment-index="3"}
+::: {.fragment .r-stack fragment-index="2" .current-visible}
 ![](images/rstudio.png){fig-align="center" width="6in"}
 :::
 
-::: {.fragment .r-stack fragment-index="4"}
+::: {.fragment .r-stack fragment-index="3" .current-visible}
 ![](images/jup.jpeg){fig-align="center" width="4in"}
 :::
 
-::: {.fragment .r-stack fragment-index="5"}
+::: {.fragment .r-stack fragment-index="4" .current-visible}
 ![](images/beaver.png){fig-align="center" width="6in"}
 :::
+
+::: {.fragment .r-stack fragment-index="5" .current-visible}
+![](images/dataone.png){fig-align="center" width="6in"}
+:::
+
+
+:::
+::: {.fragment .r-stack fragment-index="6"}
+
 :::
 :::
 :::
