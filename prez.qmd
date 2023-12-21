@@ -60,7 +60,7 @@ My names Jake Eisaguirre and I am the Data Manager for RIBBiTR. We are institute
 :::
 
 ::: notes
-
+Well what is open science? Maybe you have heard the term but are uncertain what it entails, maybe you know the term but uncertain how to apply it, or maybe this is a completely new term. Open science is quickly gaining traction in the academic setting and starting to grain traction in the private sector. You can think of open science as an umbrella term encompassing the movement to make research and its dissemination accessible at all levels. 
 :::
 
 ------------------------------------------------------------------------
