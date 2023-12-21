@@ -88,6 +88,7 @@ And finally Inclusivity, are we developing these pipelines with the commitment o
 
 ::: columns
 ::: {.column width="42%"}
+:::{.fragment fragment-index="1" .fade-in}
 <h2 style="font-size: 16.0pt;">
 
 1.  Accessible
@@ -97,7 +98,7 @@ And finally Inclusivity, are we developing these pipelines with the commitment o
     -   Published papers unlocked?
 
 </h2>
-
+:::
 ::: {.fragment .fade-in fragment-index="6"}
 <h2 style="font-size: 16.0pt;">
 
@@ -142,7 +143,7 @@ And finally Inclusivity, are we developing these pipelines with the commitment o
 :::
 
 ::: {.fragment .r-stack fragment-index="6"}
-![](images/reproducible_pipeline.jpg){fig-align="center" width="6in" height="4in"}
+![](images/reproducible_pipeline.png){fig-align="center" width="6in" height="4in"}
 :::
 :::
 :::
