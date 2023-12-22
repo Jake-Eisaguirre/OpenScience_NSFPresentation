@@ -101,7 +101,7 @@ And finally Inclusivity, are we developing these pipelines with the commitment o
 </h2>
 :::
 
-::: {.fragment .fade-in fragment-index="6"}
+::: {.fragment .fade-in fragment-index="7"}
 <h2 style="font-size: 16.0pt;">
 
 2.  Reproducible
@@ -129,22 +129,26 @@ And finally Inclusivity, are we developing these pipelines with the commitment o
 ![](images/RIBBiTR%20-%20survey_data.png){fig-align="center" width="6in"}
 
 ::: {.fragment .r-stack .current-visible fragment-index="2"}
-![](images/rstudio.png){fig-align="center" width="6in"}
+![](images/app.png){fig-align="center" width="6in"}
 :::
 
 ::: {.fragment .r-stack .current-visible fragment-index="3"}
-![](images/jup.jpeg){fig-align="center" width="4in"}
+![](images/rstudio.png){fig-align="center" width="6in"}
 :::
 
 ::: {.fragment .r-stack .current-visible fragment-index="4"}
-![](images/beaver.png){fig-align="center" width="6in"}
+![](images/jup.jpeg){fig-align="center" width="4in"}
 :::
 
 ::: {.fragment .r-stack .current-visible fragment-index="5"}
+![](images/beaver.png){fig-align="center" width="6in"}
+:::
+
+::: {.fragment .r-stack .current-visible fragment-index="6"}
 ![](images/dataone.png){fig-align="center" width="6in"}
 :::
 
-::: {.fragment .r-stack fragment-index="6"}
+::: {.fragment .r-stack fragment-index="7"}
 ![](images/reproducible_pipeline.png){fig-align="center" width="6in" height="4in"}
 :::
 :::
