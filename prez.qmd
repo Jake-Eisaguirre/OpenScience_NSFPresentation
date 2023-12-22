@@ -88,17 +88,19 @@ And finally Inclusivity, are we developing these pipelines with the commitment o
 
 ::: columns
 ::: {.column width="42%"}
-:::{.fragment fragment-index="1" .fade-in}
+::: {.fragment .fade-in fragment-index="1"}
 <h2 style="font-size: 16.0pt;">
 
 1.  Accessible
     -   Cloud based PostgreSQL Database
+    -   Front end Database WebApp 
     -   RStudio (R), Jupyter Lab (Python), and DBeaver (PostgreSQL)
     -   Database made public upon grant completion
     -   Published papers unlocked?
 
 </h2>
 :::
+
 ::: {.fragment .fade-in fragment-index="6"}
 <h2 style="font-size: 16.0pt;">
 
@@ -150,6 +152,9 @@ And finally Inclusivity, are we developing these pipelines with the commitment o
 :::
 
 ::: notes
+At RIBBiTR we have been doing our best to promote and adhere to open science principles. 
+
+In the realm of Accessibility we have an internal PostgreSQL relational database stored on an AWS server to allow researcher to connect on the back end query data from any where in the world. We have also created a front end webapp to allow researchers to explore and download data to their local device. We also strongly recommend researchers to utilize open source software like RStudio, Jupyter Lab, and DBeaver, for analysis. And following completion of our grant the entire database will be stored on a public repository like DataOne.       
 :::
 
 ------------------------------------------------------------------------
