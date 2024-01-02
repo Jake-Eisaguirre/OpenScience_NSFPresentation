@@ -175,7 +175,7 @@ As for inclusive: we at RIBBiTR have worked very hard to promote and build our e
 
 ::: columns
 ::: {.column width="42%"}
-<h2 style="font-size: 21.0pt;">
+<h2 style="font-size: 23.0pt;">
 
 -   Increase efficiency and quality of research
 -   Allow for expansion of innovation
@@ -193,6 +193,7 @@ As for inclusive: we at RIBBiTR have worked very hard to promote and build our e
 :::
 
 ::: notes
+
 :::
 
 ------------------------------------------------------------------------
