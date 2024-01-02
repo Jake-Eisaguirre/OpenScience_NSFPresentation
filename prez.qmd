@@ -171,15 +171,26 @@ As for inclusive: we at RIBBiTR have worked very hard to promote and build our e
 ------------------------------------------------------------------------
 
 ## Open Science for the Greater Good of Science {style="font-size:24.0pt;"}
-
 <hr color = #CADC30>
+
+::: columns
+::: {.column width="42%"}
+<h2 style="font-size: 18.0pt;">
 
 -   Increase efficiency and quality of research
 -   Allow for expansion of innovation
 -   Escalates collaboration 
 -   Transparent sharing of data
+-   Verification through efficient reproducible checking
 -   Public Data Repositories - Dark Data
 
+</h2>
+:::
+
+::: {.column width="58%"}
+![](images/open.jpg){fig-align="center" width="6in"}
+:::
+:::
 
 ::: notes
 :::
