@@ -89,7 +89,7 @@ And finally Inclusivity, are we developing these pipelines with the commitment o
 ::: columns
 ::: {.column width="42%"}
 ::: {.fragment .fade-in fragment-index="1"}
-<h2 style="font-size: 16.0pt;">
+<h2 style="font-size: 15.0pt;">
 
 1.  Accessible
     -   Cloud based PostgreSQL Database
@@ -102,7 +102,7 @@ And finally Inclusivity, are we developing these pipelines with the commitment o
 :::
 
 ::: {.fragment .fade-in fragment-index="7"}
-<h2 style="font-size: 16.0pt;">
+<h2 style="font-size: 15.0pt;">
 
 2.  Reproducible
     -   Reproducible analysis in R and Python
@@ -113,7 +113,7 @@ And finally Inclusivity, are we developing these pipelines with the commitment o
 :::
 
 ::: {.fragment .fade-in}
-<h2 style="font-size: 16.0pt;">
+<h2 style="font-size: 15.0pt;">
 
 3.  Inclusive
     -   Course-based Undergraduate Research Experience - CURE
@@ -165,7 +165,7 @@ And following completion of our grant the entire database will be stored on a pu
 
 For promoting reproducibility at RIBBiTR I have created this diagram illustrating our workflow we promote within RIBBiTR: walk through workflow
 
-As for inclusive: we at RIBBiTR have worked very hard to promote and build our early career researcher community. Our course based undergraduate research experience trains and educates undergraduates with lab based protocols on our amphibian fungal pathogen of interest at RIBBiTR. We also have our pilot and exploratory project funding which provides graduate students and post docs a chance to explore specific research questions related to their work. And finally we also provide RIBBiTR 101 training sessions which our usually formatted as educational seminars for any one within RIBBiTR to learn more about a specific area of work.   
+As for inclusive: we at RIBBiTR have worked very hard to promote and build our early career researcher community. Our course based undergraduate research experience trains and educates undergraduates with lab based protocols on our amphibian fungal pathogen of interest at RIBBiTR. We also have our pilot and exploratory project funding which provides graduate students and post docs a chance to explore specific research questions related to their work. And finally we also provide RIBBiTR 101 training sessions which our usually formatted as educational seminars for any one within RIBBiTR to learn more about a specific area of work.      
 :::
 
 ------------------------------------------------------------------------
@@ -173,6 +173,13 @@ As for inclusive: we at RIBBiTR have worked very hard to promote and build our e
 ## Open Science for the Greater Good of Science {style="font-size:24.0pt;"}
 
 <hr color = #CADC30>
+
+-   Increase efficiency and quality of research
+-   Allow for expansion of innovation
+-   Escalates collaboration 
+-   Transparent sharing of data
+-   Public Data Repositories - Dark Data
+
 
 ::: notes
 :::
