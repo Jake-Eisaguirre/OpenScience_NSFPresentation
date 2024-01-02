@@ -117,7 +117,7 @@ And finally Inclusivity, are we developing these pipelines with the commitment o
 
 3.  Inclusive
     -   Course-based Undergraduate Research Experience - CURE
-    -   Pilot and Exploratory Projects - PEP
+    -   Pilot and Exploratory Projects funding - PEP
     -   RIBBiTR 101 Training Sessions - R101
 
 </h2>
@@ -164,6 +164,8 @@ We also strongly recommend researchers to utilize open source software like RStu
 And following completion of our grant the entire database will be stored on a public repository like DataOne.
 
 For promoting reproducibility at RIBBiTR I have created this diagram illustrating our workflow we promote within RIBBiTR: walk through workflow
+
+As for inclusive: we at RIBBiTR have worked very hard to promote and build our early career researcher community. Our course based undergraduate research experience trains and educates undergraduates with lab based protocols on our amphibian fungal pathogen of interest at RIBBiTR. We also have our pilot and exploratory project funding which provides graduate students and post docs a chance to explore specific research questions related to their work. And finally we also provide RIBBiTR 101 training sessions which our usually formatted as educational seminars for any one within RIBBiTR to learn more about a specific area of work.   
 :::
 
 ------------------------------------------------------------------------
