@@ -58,7 +58,7 @@ At RIBBiTR we have a lot of fascinating research uncovering the mechanisms of th
 :::
 
 ::: {.column width="68%"}
-![](images/os.jpg){fig-align="center" width="6in"}
+![Ramachandran, R. et al 2021](images/os.jpg){fig-align="center" width="6in"}
 :::
 :::
 
@@ -175,7 +175,7 @@ As for inclusive: we at RIBBiTR have worked very hard to promote and build our e
 
 ::: columns
 ::: {.column width="42%"}
-<h2 style="font-size: 18.0pt;">
+<h2 style="font-size: 21.0pt;">
 
 -   Increase efficiency and quality of research
 -   Allow for expansion of innovation
@@ -188,7 +188,7 @@ As for inclusive: we at RIBBiTR have worked very hard to promote and build our e
 :::
 
 ::: {.column width="58%"}
-![](images/open.jpg){fig-align="center" width="6in"}
+![Bertram, M.G. et al 2023](images/open.jpg){fig-align="center" width="7in"}
 :::
 :::
 
@@ -197,18 +197,3 @@ As for inclusive: we at RIBBiTR have worked very hard to promote and build our e
 
 ------------------------------------------------------------------------
 
-## Citations
-
-<hr color = #CADC30>
-
--   Ramachandran, R., Bugbee, K., & Murphy, K.
-    (2021).
-    From open data to open science.
-    Earth and Space Science, 8, e2020EA001562.
-    https://doi.org/10.1029/2020EA001562
-
--   https://github.com/DataONEorg
-
--   https://posit.co/
-
-------------------------------------------------------------------------
