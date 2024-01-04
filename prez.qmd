@@ -32,9 +32,12 @@ $~$
 </h2>
 
 ::: notes
-My names Jake Eisaguirre and I am the Data Manager for RIBBiTR.
-We are institute that studies a fungal pathogen in Amphibians across the western hemisphere.
-At RIBBiTR we have a lot of fascinating research uncovering the mechanisms of this disease, however I am going to spend this time discussing the application of open science at RIBBiTR and the value it can bring to science as a hole.
+Hi, my names Jake Eisaguirre and I am the Data Manager for RIBBiTR.
+
+
+We are an institute that studies a fungal pathogen in Amphibians across the western hemisphere.
+
+And at RIBBiTR we have a lot of fascinating research going on to try and uncover the mechanisms of this disease, however I am going to spend this time discussing the application of "open science" at RIBBiTR and the value it can bring to science as a whole.
 :::
 
 ------------------------------------------------------------------------
@@ -64,18 +67,21 @@ At RIBBiTR we have a lot of fascinating research uncovering the mechanisms of th
 
 ::: notes
 Well what is open science?
+
 Maybe you have heard the term but are uncertain what it entails, maybe you know the term but uncertain how to apply it, or maybe this is a completely new term.
-Open science is quickly gaining traction in the academic setting and starting to grain traction in the private sector.
+
+Well open science is quickly gaining traction in the academic setting and starting to grain traction in the private sector.
 You can think of open science as an umbrella term encompassing the movement to make research and its dissemination accessible at all levels.
-Within the term of open science you can think of it broken down into three sectors: Accessibility, Reproducibility, and Exclusivity.
+Within the term of open science you can think of it broken down into three sectors: Accessibility, Reproducibility, and Inclusivity.
 
 Accessibility encompasses open access to literature, meaning do researchers have to pay to read your papers.
-Open source software where there is no licencing costs, like RStudio, and unlike ArcGIS.
-And public data repositories.
+As well as open source software which has licencing costs, like RStudio, and unlike ArcGIS.
+Along with public data repositories.
 
-Reproducibility encompasses open collaboration and open tools.
-Essentially can you share your work with a colleague and then can download the necessary software free of cost, access the data, run the analysis/script with out errors, and see the same output you created on your end.
-Tools like git and github allow for streamlined collaboration.
+In regards to Reproducibility, that means open collaboration and open tools.
+Essentially can you share your work with a colleague and they can download the necessary software free of cost, access the data, run the analysis/script with out errors, and see the same output you created on your end.
+
+*maybe remove: Tools like git and github allow for streamlined collaboration.*
 
 And finally Inclusivity, are we developing these pipelines with the commitment of diversity and inclusion to expand participation and partnerships.
 :::
@@ -163,9 +169,9 @@ We have also created a front end webapp to allow researchers to explore and down
 We also strongly recommend researchers to utilize open source software like RStudio, Jupyter Lab, and DBeaver, for analysis.
 And following completion of our grant the entire database will be stored on a public repository like DataOne.
 
-For promoting reproducibility at RIBBiTR I have created this diagram illustrating our workflow we promote within RIBBiTR: walk through workflow
+For promoting reproducibility at RIBBiTR I have created this diagram illustrating our workflow we promote within RIBBiTR *walk through workflow*
 
-As for inclusive: we at RIBBiTR have worked very hard to promote and build our early career researcher community. Our course based undergraduate research experience trains and educates undergraduates with lab based protocols on our amphibian fungal pathogen of interest at RIBBiTR. We also have our pilot and exploratory project funding which provides graduate students and post docs a chance to explore specific research questions related to their work. And finally we also provide RIBBiTR 101 training sessions which our usually formatted as educational seminars for any one within RIBBiTR to learn more about a specific area of work.      
+As for inclusive: we at RIBBiTR have worked very hard to promote and build our early career researcher community. Our course based undergraduate research experience trains and educates undergraduates with lab based protocols on the fungal pathogen we study. We also have our pilot and exploratory project funding which provides graduate students and post docs a chance to explore specific research questions related to their work. And finally we also provide RIBBiTR 101 training sessions which our usually formatted as educational seminars for any one within RIBBiTR or associated labs to learn more about a specific area of work.      
 :::
 
 ------------------------------------------------------------------------
@@ -195,7 +201,7 @@ As for inclusive: we at RIBBiTR have worked very hard to promote and build our e
 ::: notes
 The adoption of open science principles through out the sciences has and will almost certainly continue to increase the efficiency and quality of research, allow for expansion of innovation, and escalate collaboration. With open science principles our colleagues can verify our research at a much more efficient pace by providing the raw data, code for analysis, and manuscript all in a reproducible repository. 
 
-Which brings me to my final point of, which I will admit I am slightly bias towards as I am a data manager, but the importance of transparent data sharing through public repositories. Take a moment and think about all the data you have ever collected or a student of yours has collected, whether is be one day in the field, a masters students two years worth of data, or your entire career studying a system. Is that data just sitting on a hard drive on a dusty old laptop in your closet? Well that is called dark data in the academic world and I suspect we could pool all the dark data in this room and have readily available data for an endless supply of master or even PhD students. Share your data and lets work together to uncover the answers hidden in our data. 
+Which brings me to my final point, of which I will admit I am slightly bias towards as I am a data manager, but the importance of transparent data sharing through public repositories. Take a moment and think about all the data you have ever collected or a student of yours has collected, whether it was one day in the field, a masters students two years worth of data, or an entire PhD project. Is that data just sitting on a hard drive on a dusty old laptop? Well that is called dark data, in regards to the academic world, and I suspect we could pool all the dark data in this room and have readily available data for an endless supply of master or even PhD students. So utilize public data repositories, share your, data and lets work together to uncover the answers hidden in our data. 
 
 Thank you
 :::
