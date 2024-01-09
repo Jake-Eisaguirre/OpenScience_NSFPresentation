@@ -6,7 +6,7 @@ format:
     embed-resources: true
     logo: images/ribbitr.jpg
     css: logo.css
-editor: visual
+editor: source
 ---
 
 ## What is 'Open Science' {style="text-align:center;"}
@@ -32,6 +32,8 @@ $~$
 </h2>
 
 ::: notes
+*add note about NSF madate*
+
 Hi, my names Jake Eisaguirre and I am the Data Manager for RIBBiTR.
 
 We are an institute that studies a fungal pathogen in Amphibians across the western hemisphere.
@@ -80,6 +82,8 @@ Along with public data repositories.
 In regards to Reproducibility, that means open collaboration and open tools.
 Essentially can you share your work with a colleague and they can download the necessary software free of cost, access the data, run the analysis/script with out errors, and see the same output you created on your end.
 
+*PLOS bio change, open access*
+
 *maybe remove: Tools like git and github allow for streamlined collaboration.*
 
 And finally Inclusivity, are we developing these pipelines with the commitment of diversity and inclusion to expand participation and partnerships.
@@ -93,7 +97,7 @@ And finally Inclusivity, are we developing these pipelines with the commitment o
 
 ::: columns
 ::: {.column width="42%"}
-::: {.fragment .fade-in fragment-index="1"}
+::: {.fragment .fade-out fragment-index="7"}
 <h2 style="font-size: 15.0pt;">
 
 1.  Accessible
@@ -106,7 +110,7 @@ And finally Inclusivity, are we developing these pipelines with the commitment o
 </h2>
 :::
 
-::: {.fragment .fade-in fragment-index="7"}
+::: {.fragment .fade-in-then-out fragment-index="7"}
 <h2 style="font-size: 15.0pt;">
 
 2.  Reproducible
@@ -158,11 +162,11 @@ And finally Inclusivity, are we developing these pipelines with the commitment o
 :::
 
 ::: {.fragment .r-stack fragment-index="8"}
-![](images/cure.jpg){fig-align="center" width="5.5in"}
+![](images/cure.jpg){fig-align="center" width="6in"}
 :::
 :::
 :::
-::: 
+:::
 
 ::: notes
 At RIBBiTR we have been doing our best to promote and adhere to open science principles.
@@ -182,12 +186,12 @@ And finally we also provide RIBBiTR 101 training sessions which our usually form
 
 ------------------------------------------------------------------------
 
-## Open Science for the Greater Good of Science {style="font-size:24.0pt;"}
+## Open Science = Better Science {style="font-size:24.0pt;"}
 
 <hr color = #CADC30>
 
 ::: columns
-::: {.column width="42%"}
+::: {.column width="42%" .smaller}
 <h2 style="font-size: 23.0pt;">
 
 -   Increase efficiency and quality of research
@@ -206,6 +210,7 @@ And finally we also provide RIBBiTR 101 training sessions which our usually form
 :::
 
 ::: notes
+
 The adoption of open science principles through out the sciences has and will almost certainly continue to increase the efficiency and quality of research, allow for expansion of innovation, and escalate collaboration.
 With open science principles our colleagues can verify our research at a much more efficient pace by providing the raw data, code for analysis, and manuscript all in a reproducible repository.
 
