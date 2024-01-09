@@ -94,7 +94,7 @@ And finally Inclusivity, are we developing these pipelines with the commitment o
 ::: columns
 ::: {.column width="42%"}
 ::: {.fragment .fade-out fragment-index="7"}
-<h2 style="font-size: 15.0pt;">
+<h2 style="font-size: 14.5pt;">
 
 1.  Accessible
     -   Cloud based PostgreSQL Database
@@ -107,7 +107,7 @@ And finally Inclusivity, are we developing these pipelines with the commitment o
 :::
 
 ::: {.fragment .fade-in-then-out fragment-index="7"}
-<h2 style="font-size: 15.0pt;">
+<h2 style="font-size: 14.5pt;">
 
 2.  Reproducible
     -   Reproducible analysis in R and Python
@@ -118,7 +118,7 @@ And finally Inclusivity, are we developing these pipelines with the commitment o
 :::
 
 ::: {.fragment .fade-in fragment-index="8"}
-<h2 style="font-size: 15.0pt;">
+<h2 style="font-size: 14.5pt;">
 
 3.  Inclusive
     -   Course-based Undergraduate Research Experience - CURE
@@ -158,7 +158,7 @@ And finally Inclusivity, are we developing these pipelines with the commitment o
 :::
 
 ::: {.fragment .r-stack fragment-index="8"}
-![](images/cure.jpg){fig-align="center" width="6in"}
+![](images/cure.jpg){fig-align="center" width="6in" height="3.9in"}
 :::
 :::
 :::
