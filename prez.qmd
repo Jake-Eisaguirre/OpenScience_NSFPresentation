@@ -6,7 +6,7 @@ format:
     embed-resources: true
     logo: images/ribbitr.jpg
     css: logo.css
-editor: source
+editor: source 
 ---
 
 ## Open Science: Catalyzing Positive Change in the Scientific Landscape {style="text-align:center;"}
