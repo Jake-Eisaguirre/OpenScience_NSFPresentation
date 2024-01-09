@@ -9,7 +9,7 @@ format:
 editor: source
 ---
 
-## What is 'Open Science' {style="text-align:center;"}
+## Open Science: Catalyzing Positive Change in the Scientific Landscape {style="text-align:center;"}
 
 <hr color = #CADC30>
 
@@ -32,13 +32,10 @@ $~$
 </h2>
 
 ::: notes
-*add note about NSF madate*
 
-Hi, my names Jake Eisaguirre and I am the Data Manager for RIBBiTR.
+*NSF Mandate*
 
-We are an institute that studies a fungal pathogen in Amphibians across the western hemisphere.
-
-And at RIBBiTR we have a lot of fascinating research going on to try and uncover the mechanisms of this disease, however I am going to spend this time discussing the application of "open science" at RIBBiTR and the value it can bring to science as a whole.
+Good Afternoon, my name is Jake Eisaguirre and I am the Data Manager for RIBBiTR. We are an institute that studies the resilience of amphibians to disease and other stressor. And at RIBBiTR we have a lot of fascinating research going on to try and uncover the mechanisms of this disease, however I am going to spend this time discussing the application of "open science" at RIBBiTR and the value it can bring to science as a whole.
 :::
 
 ------------------------------------------------------------------------
@@ -71,16 +68,15 @@ Well what is open science?
 
 Maybe you have heard the term but are uncertain what it entails, maybe you know the term but uncertain how to apply it, or maybe this is a completely new term.
 
-Well open science is quickly gaining traction in the academic setting and starting to grain traction in the private sector.
-You can think of open science as an umbrella term encompassing the movement to make research and its dissemination accessible at all levels.
-Within the term of open science you can think of it broken down into three sectors: Accessibility, Reproducibility, and Inclusivity.
+Well open science is quickly gaining traction in the academic setting and starting to grain traction in the private sector. You can think of open science as an umbrella term encompassing the movement to make research and its dissemination accessible at all levels. Within the term of open science you can think of it broken down into three sectors: Accessibility, Reproducibility, and Inclusivity.
 
-Accessibility encompasses open access to literature, meaning do researchers have to pay to read your papers.
-As well as open source software which has licencing costs, like RStudio, and unlike ArcGIS.
-Along with public data repositories.
+Accessibility encompasses open access to literature, meaning do researchers have access to your papers. But this goes beyond access to papers to include access to your code and anything else that is part of your research workflow As well as open source software which does not have licencing costs, like RStudio, and unlike ArcGIS. Along with public data repositories. 
 
-In regards to Reproducibility, that means open collaboration and open tools.
-Essentially can you share your work with a colleague and they can download the necessary software free of cost, access the data, run the analysis/script with out errors, and see the same output you created on your end.
+Reproducibility refers to open collaboration and open tools. Essentially can you share your work with a colleague and they can easily download the necessary software, access the data, run the analysis/script with out errors, and see the same output you created on your end.
+
+maybe remove: Tools like git and github allow for streamlined collaboration.
+
+And finally Inclusivity, we are developing these pipelines with the commitment of diversity and inclusion to expand participation and partnerships. Including to those who might not have access to proprietary (non-open source) software.
 
 *PLOS bio change, open access*
 
@@ -103,9 +99,9 @@ And finally Inclusivity, are we developing these pipelines with the commitment o
 1.  Accessible
     -   Cloud based PostgreSQL Database
     -   Front end Database WebApp
-    -   RStudio (R), Jupyter Lab (Python), and DBeaver (PostgreSQL)
-    -   Database made public upon grant completion
-    -   Published papers unlocked?
+    -   Open Source: RStudio (R), Jupyter Lab (Python), and DBeaver (PostgreSQL)
+    -   Database will be made public upon grant completion
+    -   Publish in open access journals when possible
 
 </h2>
 :::
@@ -196,10 +192,10 @@ And finally we also provide RIBBiTR 101 training sessions which our usually form
 
 -   Increase efficiency and quality of research
 -   Allow for expansion of innovation
--   Escalates collaboration
+-   Facilitate collaboration
 -   Verification through efficient reproducible checking
 -   Transparent sharing of data
--   Public Data Repositories - Dark Data
+-   Public data repositories - Dark Data
 
 </h2>
 :::
@@ -214,10 +210,9 @@ And finally we also provide RIBBiTR 101 training sessions which our usually form
 The adoption of open science principles through out the sciences has and will almost certainly continue to increase the efficiency and quality of research, allow for expansion of innovation, and escalate collaboration.
 With open science principles our colleagues can verify our research at a much more efficient pace by providing the raw data, code for analysis, and manuscript all in a reproducible repository.
 
-Which brings me to my final point, of which I will admit I am slightly bias towards as I am a data manager, but the importance of transparent data sharing through public repositories.
-Take a moment and think about all the data you have ever collected or a student of yours has collected, whether it was one day in the field, a masters students two years worth of data, or an entire PhD project.
+Which brings me to my final point, take a moment and think about all the data you have ever collected or a student of yours has collected, whether it was one day in the field, a masters students two years worth of data, or an entire PhD project.
 Is that data just sitting on a hard drive on a dusty old laptop?
-Well that is called dark data, in regards to the academic world, and I suspect we could pool all the dark data in this room and have readily available data for an endless supply of master or even PhD students.
+Those are dark data, and I suspect we could pool all the dark data in this room and have readily available data for an endless supply of master or even PhD students.
 So utilize public data repositories, share your data, and lets work together to uncover the answers hidden in our data.
 
 Thank you
