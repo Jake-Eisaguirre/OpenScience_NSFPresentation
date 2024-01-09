@@ -35,7 +35,7 @@ $~$
 
 *NSF Mandate*
 
-Good Afternoon, my name is Jake Eisaguirre and I am the Data Manager for RIBBiTR. We are an institute that studies the resilience of amphibians to disease and other stressor. And at RIBBiTR we have a lot of fascinating research going on to try and uncover the mechanisms of this disease, however I am going to spend this time discussing the application of "open science" at RIBBiTR and the value it can bring to science as a whole.
+Good Afternoon, my name is Jake Eisaguirre and I am the Data Manager for RIBBiTR. We are an institute that studies the resilience of amphibians to disease and other stressors. And at RIBBiTR we have a lot of fascinating research going on to try and uncover these mechanisms to resillience, however I am going to spend this time discussing the application of "open science" at RIBBiTR and the value it can bring to science as a whole.
 :::
 
 ------------------------------------------------------------------------
@@ -66,7 +66,7 @@ Good Afternoon, my name is Jake Eisaguirre and I am the Data Manager for RIBBiTR
 ::: notes
 Well what is open science?
 
-Maybe you have heard the term but are uncertain what it entails, maybe you know the term but uncertain how to apply it, or maybe this is a completely new term.
+Maybe you have heard the term but are uncertain what it entails, maybe you know the term but uncertain how to apply it, and hopefully this is not a new term as NSF has mandated it, to a certain extent, across all NSF funded institutes with guidelines found within their NSF Public Access Plan 2.0.
 
 Well open science is quickly gaining traction in the academic setting and starting to grain traction in the private sector. You can think of open science as an umbrella term encompassing the movement to make research and its dissemination accessible at all levels. Within the term of open science you can think of it broken down into three sectors: Accessibility, Reproducibility, and Inclusivity.
 
