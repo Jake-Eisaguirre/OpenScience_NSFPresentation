@@ -32,10 +32,9 @@ $~$
 </h2>
 
 ::: notes
-
-*NSF Mandate*
-
-Good Afternoon, my name is Jake Eisaguirre and I am the Data Manager for RIBBiTR. We are an institute that studies the resilience of amphibians to disease and other stressors. And at RIBBiTR we have a lot of fascinating research going on to try and uncover these mechanisms to resillience, however I am going to spend this time discussing the application of "open science" at RIBBiTR and the value it can bring to science as a whole.
+Good Afternoon, my name is Jake Eisaguirre and I am the Data Manager for RIBBiTR.
+We are an institute that studies the resilience of amphibians to disease and other stressors.
+And at RIBBiTR we have a lot of fascinating research going on, however I am going to spend this time discussing the application of "open science" at RIBBiTR and the value it can bring to science as a whole.
 :::
 
 ------------------------------------------------------------------------
@@ -68,21 +67,19 @@ Well what is open science?
 
 Maybe you have heard the term but are uncertain what it entails, maybe you know the term but uncertain how to apply it, and hopefully this is not a new term as NSF has mandated it, to a certain extent, across all NSF funded institutes with guidelines found within their NSF Public Access Plan 2.0.
 
-Well open science is quickly gaining traction in the academic setting and starting to grain traction in the private sector. You can think of open science as an umbrella term encompassing the movement to make research and its dissemination accessible at all levels. Within the term of open science you can think of it broken down into three sectors: Accessibility, Reproducibility, and Inclusivity.
+You can think of open science as an umbrella term encompassing the movement to make research and its dissemination accessible at all levels.
 
-Accessibility encompasses open access to literature, meaning do researchers have access to your papers. But this goes beyond access to papers to include access to your code and anything else that is part of your research workflow As well as open source software which does not have licencing costs, like RStudio, and unlike ArcGIS. Along with public data repositories. 
+Within the term of open science you can think of it broken down into three sectors: Accessibility, Reproducibility, and Inclusivity.
 
-Reproducibility refers to open collaboration and open tools. Essentially can you share your work with a colleague and they can easily download the necessary software, access the data, run the analysis/script with out errors, and see the same output you created on your end.
+Accessibility encompasses open access to literature, meaning do researchers have access to your papers.
+But this goes beyond access to papers to include access to your code and anything else that is part of your research workflow. As well as open source software which does not have licencing costs, like RStudio, and unlike ArcGIS. Along with public data repositories.
 
-maybe remove: Tools like git and github allow for streamlined collaboration.
+Reproducibility refers to open collaboration and open tools.
+Essentially can you share your work with a colleague and they can easily download the necessary software, access the data, run the analysis/script with out errors, and see the same output you created on your end.
+
 
 And finally Inclusivity, we are developing these pipelines with the commitment of diversity and inclusion to expand participation and partnerships. Including to those who might not have access to proprietary (non-open source) software.
 
-*PLOS bio change, open access*
-
-*maybe remove: Tools like git and github allow for streamlined collaboration.*
-
-And finally Inclusivity, are we developing these pipelines with the commitment of diversity and inclusion to expand participation and partnerships.
 :::
 
 ------------------------------------------------------------------------
@@ -167,12 +164,9 @@ And finally Inclusivity, are we developing these pipelines with the commitment o
 ::: notes
 At RIBBiTR we have been doing our best to promote and adhere to open science principles.
 
-In the realm of Accessibility we have an internal PostgreSQL relational database stored on an AWS server to allow researcher to connect on the back end query data from any where in the world.
-We have also created a front end webapp to allow researchers to explore and download data to their local device.
-We also strongly recommend researchers to utilize open source software like RStudio, Jupyter Lab, and DBeaver, for analysis.
-And following completion of our grant the entire database will be stored on a public repository like DataOne.
+In the realm of Accessibility we have an internal PostgreSQL relational database stored on an AWS server to allow researcher to connect on the back end query data from any where in the world. We have created a front end webapp to allow researchers to explore and download data to their local device. We also strongly recommend researchers to utilize open source software like RStudio, Jupyter Lab, and DBeaver, for analysis. Following following completion of our grant the database will be stored in a public repository like DataOne. And finally we, publish in open access journals when possible
 
-For promoting reproducibility at RIBBiTR I have created this diagram illustrating our workflow we promote within RIBBiTR *walk through workflow*
+
 
 As for inclusive: we at RIBBiTR have worked very hard to promote and build our early career researcher community.
 Our course based undergraduate research experience trains and educates undergraduates with lab and field based protocols.
@@ -187,7 +181,7 @@ And finally we also provide RIBBiTR 101 training sessions which our usually form
 <hr color = #CADC30>
 
 ::: columns
-::: {.column width="42%" .smaller}
+::: {.column .smaller width="42%"}
 <h2 style="font-size: 23.0pt;">
 
 -   Increase efficiency and quality of research
@@ -206,7 +200,6 @@ And finally we also provide RIBBiTR 101 training sessions which our usually form
 :::
 
 ::: notes
-
 The adoption of open science principles through out the sciences has and will almost certainly continue to increase the efficiency and quality of research, allow for expansion of innovation, and escalate collaboration.
 With open science principles our colleagues can verify our research at a much more efficient pace by providing the raw data, code for analysis, and manuscript all in a reproducible repository.
 
