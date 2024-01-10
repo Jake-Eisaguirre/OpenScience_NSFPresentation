@@ -200,7 +200,7 @@ Which brings me to my final point, take a moment and think about all the data yo
 Is that data just sitting on a hard drive in a dusty old laptop? Those are dark data, and I suspect we could pool all the dark data in this room and have readily available data for endless graduate students.
 
 So utilize public data repositories, share your data, and lets work together to uncover the answers hidden in our data.
-
+ 
 Thank you
 :::
 
