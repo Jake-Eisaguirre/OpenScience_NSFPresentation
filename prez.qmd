@@ -197,12 +197,11 @@ As for inclusive: we at RIBBiTR have worked very hard to promote and build our e
 :::
 
 ::: notes
-The adoption of open science principles through out the sciences has and will almost certainly continue to increase the efficiency and quality of research, allow for expansion of innovation, and escalate collaboration.
-With open science principles our colleagues can verify our research at a much more efficient pace by providing the raw data, code for analysis, and manuscript all in a reproducible repository.
+The adoption of open science principles through out the sciences has and will almost certainly continue to increase the efficiency and quality of research, allow for expansion of innovation, and facilitate collaboration. With open science principles our colleagues can verify our research at a much more efficient pace by providing the raw data, code for analysis, and manuscript all in a reproducible repository.
 
 Which brings me to my final point, take a moment and think about all the data you have ever collected or a student of yours has collected, whether it was one day in the field, a masters students two years worth of data, or an entire PhD project.
-Is that data just sitting on a hard drive on a dusty old laptop?
-Those are dark data, and I suspect we could pool all the dark data in this room and have readily available data for an endless supply of master or even PhD students.
+Is that data just sitting on a hard drive on a dusty old laptop? Those are dark data, and I suspect we could pool all the dark data in this room and have readily available data for an endless graduate students.
+
 So utilize public data repositories, share your data, and lets work together to uncover the answers hidden in our data.
 
 Thank you
