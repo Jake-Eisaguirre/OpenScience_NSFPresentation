@@ -43,24 +43,9 @@ At RIBBiTR we have a lot of fascinating research going on, however I am going to
 
 <hr color = #CADC30>
 
-::: columns
-::: {.incremental .column width="32%"}
-1.  Accessible
-    -   Open access literature
-    -   Open source software
-    -   Public data repository
-2.  Reproducible
-    -   Open Collaboration
-    -   Open Tools
-3.  Inclusive
-    -   New Pathways to Science
-    -   Expand Participation
-:::
 
-::: {.column width="68%"}
-![Ramachandran, R. et al 2021](images/os.jpg){fig-align="center" width="5.8in"}
-:::
-:::
+![Ramachandran, R. et al 2021](images/os.jpg){fig-align="center" width="8in"}
+
 
 ::: notes
 Well what is open science?
