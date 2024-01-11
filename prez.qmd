@@ -15,7 +15,7 @@ editor: source
 
 ![](images/great_frog.jpg){fig-align="center" width="5.33in"}
 
-<h2 style="text-align:center; font-size:22.0pt;">
+<h2 style="text-align:center; font-size:22.0pt;"> 
 
 Jake Eisaguirre^1,2^\
 Data Manager, M.S. Environmental Data Science
