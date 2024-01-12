@@ -18,7 +18,7 @@ editor: source
 <h2 style="text-align:center; font-size:22.0pt;"> 
 
 Jake Eisaguirre^1,2^\
-Data Manager, M.S. Environmental Data Science
+Data Manager, M.S. Environmental Data Science 
 
 </h2>
 
