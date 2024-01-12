@@ -152,15 +152,12 @@ In the realm of Accessibility we have an internal PostgreSQL relational database
 
 The image here illustrates one example of a reproducible workflow we promote at RIBBiTR. We collect data using the Fulcrum app. Researchers create a back end connection to the cloud based database. They query and analyze the data of interest in RStudio. Researchers utilize quarto documents to develop manuscripts and collaborate through git and github. Finally the entire reproducible repository is published to a journal. 
 
-As for inclusive: we at RIBBiTR have worked very hard to promote and build our early career researcher community. Our course based undergraduate research experience trains and educates undergraduates with lab and field based protocols. We also have our pilot and exploratory project funding for graduate students and post docs. And finally we provide RIBBiTR 101 training sessions which are educational seminars for RIBBiTR researchers or associated researchers.
+As for inclusive: we at RIBBiTR have worked very hard to promote and build our early career researcher community. Our course based undergraduate research experience trains and educates undergraduates, through the lens of open science, with lab and field based protocols. We also have our pilot and exploratory project funding for graduate students and post docs. And finally we provide RIBBiTR 101 training sessions which are educational seminars for RIBBiTR researchers or associated researchers.
 
-CORI: I agree you don't need to refer to the specific NSF guidelines. Chances are we are actually ahead of the program officers in the room in our knowledge of how open science can work ;) 
+CORI:
 
 Under accessibility, instead of asking whether researchers have access to our papers maybe say "anyone who wants it" have access to our papers. This is in the spirit of making our work accessible to policy makers, general public, etc. 
 
-I know you are tight on time but I wonder if you can sneak in some mention of the role open science can play in minimizing errors in the process between data collection, databasing, analysis, and sharing of results in the reproducibility section? This was one of the biggest selling points for me when I learned about it.
-
-I love the diagram with the happy healthy frog at the end. Should change "reproducibility" to "reproducible" in the text by the frog. Also I wonder if you want to add Fulcrum (standardized data collection in the field) to this pipeline. I think others will be really interested to hear about that part or maybe talk about it after.
 
 I think what you have for inclusivity is fine but if you wanted to make the talking points a little more tailored you could mention that we are working to incroporate open science principals and work with these tools into our CURE courses and providing training to an ever larger audience through our RIBBiTR 101s and PEP project awardees.  But if you don't have time I think what you have is great.  Don't need to cover everything cool about RIBBiTR in 3 minutes!
 
@@ -192,7 +189,7 @@ I think what you have for inclusivity is fine but if you wanted to make the talk
 :::
 
 ::: notes
-The adoption of open science principles has and will almost certainly continue to increase the efficiency and quality of research, allow for expansion of innovation, and facilitate collaboration. With open science principles our colleagues can verify our research at a much more efficient pace by providing the raw data, code for analysis, and manuscript all in a reproducible repository.
+The adoption of open science principles has and will almost certainly continue to increase the efficiency and quality of research, allow for expansion of innovation, and facilitate collaboration. With open science principles our colleagues can verify and error our research at a much more efficient pace by providing the raw data, code for analysis, and manuscript all in a reproducible repository.
 
 Which brings me to my final point, take a moment and think about all the data you have ever collected or a student of yours has collected.
 Is that data just sitting on a hard drive in a dusty old laptop? Those are dark data, and I suspect we could pool all the dark data in this room and have readily available data for endless graduate students.
