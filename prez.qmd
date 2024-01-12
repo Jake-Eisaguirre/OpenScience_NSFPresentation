@@ -35,6 +35,8 @@ $~$
 Good Afternoon, my name is Jake Eisaguirre and I am the Data Manager for RIBBiTR.
 We are an institute that studies the resilience of amphibians to disease and other stressors.
 At RIBBiTR we have a lot of fascinating research going on, however I am going to spend this time discussing the application of "open science" at RIBBiTR and the value it can bring to science as a whole.
+
+CORI: Maybe say we are studying resilience in living systems using amphibian resilience to disease and other stressors as our test case.  I say this because we are on the hook with NSF to do more than study frogs :)  Slides look great so far though.
 :::
 
 ------------------------------------------------------------------------
@@ -151,6 +153,17 @@ In the realm of Accessibility we have an internal PostgreSQL relational database
 The image here illustrates one example of a reproducible workflow we promote at RIBBiTR. Researchers create a back end connection to the cloud based database. They query and analyze the data of interest in RStudio. Researchers utilize quarto documents to develop manuscripts and collaborate through git and github. Finally the entire reproducible repository is published to a journal. 
 
 As for inclusive: we at RIBBiTR have worked very hard to promote and build our early career researcher community. Our course based undergraduate research experience trains and educates undergraduates with lab and field based protocols. We also have our pilot and exploratory project funding for graduate students and post docs. And finally we provide RIBBiTR 101 training sessions which are educational seminars for RIBBiTR researchers or associated researchers.
+
+CORI: I agree you don't need to refer to the specific NSF guidelines. Chances are we are actually ahead of the program officers in the room in our knowledge of how open science can work ;) 
+
+Under accessibility, instead of asking whether researchers have access to our papers maybe say "anyone who wants it" have access to our papers. This is in the spirit of making our work accessible to policy makers, general public, etc. 
+
+I know you are tight on time but I wonder if you can sneak in some mention of the role open science can play in minimizing errors in the process between data collection, databasing, analysis, and sharing of results in the reproducibility section? This was one of the biggest selling points for me when I learned about it.
+
+I love the diagram with the happy healthy frog at the end. Should change "reproducibility" to "reproducible" in the text by the frog. Also I wonder if you want to add Fulcrum (standardized data collection in the field) to this pipeline. I think others will be really interested to hear about that part or maybe talk about it after.
+
+I think what you have for inclusivity is fine but if you wanted to make the talking points a little more tailored you could mention that we are working to incroporate open science principals and work with these tools into our CURE courses and providing training to an ever larger audience through our RIBBiTR 101s and PEP project awardees.  But if you don't have time I think what you have is great.  Don't need to cover everything cool about RIBBiTR in 3 minutes!
+
 :::
 
 ------------------------------------------------------------------------
@@ -187,6 +200,8 @@ Is that data just sitting on a hard drive in a dusty old laptop? Those are dark 
 So utilize public data repositories, share your data, and lets work together to uncover the answers hidden in our data.
  
 Thank you
+
+CORI: for the text on this slide you could say "public data repositories unlock dark data (or something like that). Otherwise I think this slide and text are great.
 :::
 
 ------------------------------------------------------------------------
