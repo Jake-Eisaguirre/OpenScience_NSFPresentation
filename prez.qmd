@@ -52,7 +52,7 @@ CORI: Maybe say we are studying resilience in living systems using amphibian res
 ::: notes
 Well what is open science?
 
-Maybe you have heard the term but are uncertain what it entails or how to apply it but hopefully this is not a new term as NSF has mandated it, to a certain extent, across all NSF funded institutes. *remove? with guidelines found within their NSF Public Access Plan 2.0.*
+Maybe you have heard the term but are uncertain what it entails or how to apply it but hopefully this is not a new term as NSF has mandated it, to a certain extent, across all NSF funded institutes. 
 
 Open science as an umbrella term encompassing the movement to make research and its dissemination accessible at all levels.
 
@@ -181,7 +181,7 @@ I think what you have for inclusivity is fine but if you wanted to make the talk
 -   Facilitate collaboration
 -   Verification through efficient reproducible checking
 -   Transparent sharing of data
--   Public data repositories - Dark Data
+-   Public data repositories unlock dark data
 
 </h2>
 :::
