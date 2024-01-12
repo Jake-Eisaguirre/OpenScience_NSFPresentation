@@ -33,7 +33,7 @@ $~$
 
 ::: notes
 Good Afternoon, my name is Jake Eisaguirre and I am the Data Manager for RIBBiTR.
-We are an institute that studies the resilience of amphibians to disease and other stressors.
+We are an institute that studies the resilience in living systems using amphibian resilience to disease and other stressors as our test case.
 At RIBBiTR we have a lot of fascinating research going on, however I am going to spend this time discussing the application of "open science" at RIBBiTR and the value it can bring to science as a whole.
 
 CORI: Maybe say we are studying resilience in living systems using amphibian resilience to disease and other stressors as our test case.  I say this because we are on the hook with NSF to do more than study frogs :)  Slides look great so far though.
