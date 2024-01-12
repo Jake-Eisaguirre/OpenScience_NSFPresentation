@@ -200,8 +200,6 @@ Is that data just sitting on a hard drive in a dusty old laptop? Those are dark 
 So utilize public data repositories, share your data, and lets work together to uncover the answers hidden in our data.
  
 Thank you
-
-CORI: for the text on this slide you could say "public data repositories unlock dark data (or something like that). Otherwise I think this slide and text are great.
 :::
 
 ------------------------------------------------------------------------
