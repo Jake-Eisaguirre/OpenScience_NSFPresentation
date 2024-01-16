@@ -48,9 +48,9 @@ At RIBBiTR we have a lot of fascinating research going on, however I am going to
 ::: notes
 Well what is open science?
 
-Maybe you have heard the term but are uncertain what it entails or how to apply it but hopefully this is not a new term as NSF has mandated it across all NSF funded institutes.
+Maybe you have heard the term but are uncertain what it entails or how to apply it, but hopefully this is not a new term as NSF has mandated it, to a certain extent, across all NSF funded institutes.
 
-Open science as an umbrella term encompassing the movement to make research and its dissemination accessible at all levels.
+Open science is an umbrella term encompassing the movement to make research and its dissemination accessible at all levels.
 
 There are three sectors of open science: Accessibility, Reproducibility, and Inclusivity.
 
