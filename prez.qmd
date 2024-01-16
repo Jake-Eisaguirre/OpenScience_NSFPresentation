@@ -8,17 +8,17 @@ format:
     css: logo.css
 editor: source 
 ---
- 
+
 ## Open Science: Catalyzing Positive Change in the Scientific Landscape {style="text-align:center;"}
 
 <hr color = #CADC30>
 
 ![](images/great_frog.jpg){fig-align="center" width="5.33in"}
 
-<h2 style="text-align:center; font-size:22.0pt;"> 
+<h2 style="text-align:center; font-size:22.0pt;">
 
 Jake Eisaguirre^1,2^\
-Data Manager, M.S. Environmental Data Science 
+Data Manager, M.S. Environmental Data Science
 
 </h2>
 
@@ -36,7 +36,8 @@ Good Afternoon, my name is Jake Eisaguirre and I am the Data Manager for RIBBiTR
 We are an institute that studies the resilience in living systems using amphibian resilience to disease and other stressors as our test case.
 At RIBBiTR we have a lot of fascinating research going on, however I am going to be discussing the application of "open science" at RIBBiTR and the value it can bring to science as a whole.
 
-CORI: Maybe say we are studying resilience in living systems using amphibian resilience to disease and other stressors as our test case.  I say this because we are on the hook with NSF to do more than study frogs :)  Slides look great so far though.
+CORI: Maybe say we are studying resilience in living systems using amphibian resilience to disease and other stressors as our test case.
+I say this because we are on the hook with NSF to do more than study frogs :) Slides look great so far though.
 :::
 
 ------------------------------------------------------------------------
@@ -45,25 +46,25 @@ CORI: Maybe say we are studying resilience in living systems using amphibian res
 
 <hr color = #CADC30>
 
-
 ![Ramachandran, R. et al 2021](images/os.jpg){fig-align="center" width="8in"}
-
 
 ::: notes
 Well what is open science?
 
-Maybe you have heard the term but are uncertain what it entails or how to apply it but hopefully this is not a new term as NSF has mandated it across all NSF funded institutes. 
+Maybe you have heard the term but are uncertain what it entails or how to apply it but hopefully this is not a new term as NSF has mandated it across all NSF funded institutes.
 
 Open science as an umbrella term encompassing the movement to make research and its dissemination accessible at all levels.
 
 There are three sectors of open science: Accessibility, Reproducibility, and Inclusivity.
 
-Accessibility encompasses open access to literature, meaning do researchers have access to your papers. But this goes beyond access to papers to include access to your code, data repositories, and open source software that was all part of your research workflow. 
+Accessibility encompasses open access to literature, meaning do researchers have access to your papers.
+But this goes beyond access to papers to include access to your code, data repositories, and open source software that was all part of your research workflow.
 
-Reproducibility refers to open collaboration and open tools. Essentially can you share your work with a colleague and they can easily download the necessary software, access the data, run the analysis, and see the same output.
+Reproducibility refers to open collaboration and open tools.
+Essentially can you share your work with a colleague and they can easily download the necessary software, access the data, run the analysis, and see the same output.
 
-And finally Inclusivity: we are developing these pipelines with the commitment of diversity and inclusion to expand participation and partnerships. Including to those who might not have access to proprietary software.
-
+And finally Inclusivity: we are developing these pipelines with the commitment of diversity and inclusion to expand participation and partnerships.
+Including to those who might not have access to proprietary software.
 :::
 
 ------------------------------------------------------------------------
@@ -84,7 +85,7 @@ And finally Inclusivity: we are developing these pipelines with the commitment o
     -   Database will be made public upon grant completion
     -   Publish in open access journals when possible
 
-</h2>
+</h2> <!--# I suggest having the text for #1, 2, and 3 (i.e., Accessible, Reproducible, Inclusive) be in the same place (top-aligned) on each of these three slides. The text for the "Inclusive" slide is too close to the bottom margin. -->
 :::
 
 ::: {.fragment .fade-in-then-out fragment-index="7"}
@@ -148,19 +149,30 @@ And finally Inclusivity: we are developing these pipelines with the commitment o
 ::: notes
 At RIBBiTR we have been doing our best to promote and adhere to open science principles.
 
-In the realm of Accessibility we have an internal PostgreSQL relational database stored on an AWS server. We have created a front end webapp to allow researchers to explore and download data. We strongly recommend researchers to utilize open source software like RStudio, Jupyter Lab, and DBeaver. Following completion of our grant the database will be stored in a public repository like DataOne. And finally, when possible we publish in open access journals.
+In the realm of Accessibility we have an internal PostgreSQL relational database stored on an AWS server.
+We have created a front end webapp to allow researchers to explore and download data.
+We strongly recommend researchers to utilize open source software like RStudio, Jupyter Lab, and DBeaver.
+Following completion of our grant the database will be stored in a public repository like DataOne.
+And finally, when possible we publish in open access journals.
 
-The image here illustrates one example of a reproducible workflow at RIBBiTR. We collect data using the Fulcrum app. Researchers then create a back end connection to the cloud hosted database where they query and analyze the data of interest in RStudio. Researchers then utilize quarto documents to develop and collaborate on manuscripts through git and github. Finally the entire reproducible repository is published to a journal. 
+The image here illustrates one example of a reproducible workflow at RIBBiTR.
+We collect data using the Fulcrum app.
+Researchers then create a back end connection to the cloud hosted database where they query and analyze the data of interest in RStudio.
+Researchers then utilize quarto documents to develop and collaborate on manuscripts through git and github.
+Finally the entire reproducible repository is published to a journal.
 
-As for inclusive: we at RIBBiTR have worked very hard to promote and build our early career researcher community. Our course based undergraduate research experience trains and educates undergraduates, through the lens of open science, with lab and field based protocols. We also have our pilot and exploratory project funding and our RIBBiTR 101 training sessions for RIBBiTR researchers and associated researchers.
+As for inclusive: we at RIBBiTR have worked very hard to promote and build our early career researcher community.
+Our course based undergraduate research experience trains and educates undergraduates, through the lens of open science, with lab and field based protocols.
+We also have our pilot and exploratory project funding and our RIBBiTR 101 training sessions for RIBBiTR researchers and associated researchers.
 
 CORI:
 
-Under accessibility, instead of asking whether researchers have access to our papers maybe say "anyone who wants it" have access to our papers. This is in the spirit of making our work accessible to policy makers, general public, etc. 
+Under accessibility, instead of asking whether researchers have access to our papers maybe say "anyone who wants it" have access to our papers.
+This is in the spirit of making our work accessible to policy makers, general public, etc.
 
-
-I think what you have for inclusivity is fine but if you wanted to make the talking points a little more tailored you could mention that we are working to incroporate open science principals and work with these tools into our CURE courses and providing training to an ever larger audience through our RIBBiTR 101s and PEP project awardees.  But if you don't have time I think what you have is great.  Don't need to cover everything cool about RIBBiTR in 3 minutes!
-
+I think what you have for inclusivity is fine but if you wanted to make the talking points a little more tailored you could mention that we are working to incroporate open science principals and work with these tools into our CURE courses and providing training to an ever larger audience through our RIBBiTR 101s and PEP project awardees.
+But if you don't have time I think what you have is great.
+Don't need to cover everything cool about RIBBiTR in 3 minutes!
 :::
 
 ------------------------------------------------------------------------
@@ -174,11 +186,11 @@ I think what you have for inclusivity is fine but if you wanted to make the talk
 <h2 style="font-size: 23.0pt;">
 
 -   Increase efficiency and quality of research
--   Allow for expansion of innovation
+-   Allow for expansion of innovation <!--# Not sure what this means. Sharing of innovation? -->
 -   Facilitate collaboration
--   Verification through efficient reproducible checking
--   Transparent sharing of data
--   Public data repositories unlock dark data
+-   Verification through efficient reproducible checking <!--# Not sure what "repoducible checking is". Reproducible analyses? Accessible code? Need to make sure that audience can connect to each bullet point - Meaning must be clearly articulated. -->
+-   Transparent sharing of data <!--# Meaning? Workflow is made transparent by Open Science. Not sure how Open Science makes sharing transparent.  -->
+-   Public data repositories unlock dark data <!--# "dark data" should be in quotes -->
 
 </h2>
 :::
@@ -189,13 +201,16 @@ I think what you have for inclusivity is fine but if you wanted to make the talk
 :::
 
 ::: notes
-The adoption of open science principles has and will almost certainly continue to increase the efficiency and quality of research, allow for expansion of innovation, and facilitate collaboration. With open science principles our colleagues can verify and error check our research at a much more efficient pace by providing the raw data, code for analysis, and manuscript all in a reproducible repository.
+The adoption of open science principles has and will almost certainly continue to increase the efficiency and quality of research, allow for expansion of innovation, and facilitate collaboration.
+With open science principles our colleagues can verify and error check our research at a much more efficient pace by providing the raw data, code for analysis, and manuscript all in a reproducible repository.
 
 Which brings me to my final point, take a moment and think about all the data you or a student of yours has collected.
-Is that data just sitting on a hard drive? Those are dark data, and I suspect we could pool all the dark data in this room and have a readily available supply of data for endless graduate students.
+Is that data <!--# Minor point - Some would argue that "data" is plural: "Are those data....." -->just sitting on a hard drive?
+Those are dark data, and I suspect we could pool all the dark data in this room and have a readily available supply of data for endless graduate students.
+<!--# A key point is that dark data have a high likelihood of being lost over time.  -->
 
-So utilize public data repositories, share your data, and lets work together to uncover the answers hidden in our data.
- 
+So utilize public data repositories, share your data, <!--# Add "make your workflow transparent," --> and lets work together to uncover the answers hidden in our data.
+
 Thank you
 :::
 
