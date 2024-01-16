@@ -43,7 +43,7 @@ At RIBBiTR we have a lot of fascinating research going on, however I am going to
 
 <hr color = #CADC30>
 
-![Ramachandran, R. et al 2021](images/os.jpg){fig-align="center" width="8in"}
+![Ramachandran et al. 2021](images/os.jpg){fig-align="center" width="8in"}
 
 ::: notes
 Well what is open science?
@@ -197,17 +197,17 @@ We also have our pilot and exploratory project funding and our RIBBiTR 101 train
 <h2 style="font-size: 23.0pt;">
 
 -   Increase efficiency and quality of research
--   Allow for expansion of innovation <!--# Not sure what this means. Sharing of innovation? -->
+-   Allow for rapid expansion of innovation 
 -   Facilitate collaboration
--   Verification through efficient reproducible checking <!--# Not sure what "repoducible checking is". Reproducible analyses? Accessible code? Need to make sure that audience can connect to each bullet point - Meaning must be clearly articulated. -->
--   Transparent sharing of data <!--# Meaning? Workflow is made transparent by Open Science. Not sure how Open Science makes sharing transparent.  -->
+-   Verification through efficient reproducible error checking
+-   Transparent sharing of data through workflows 
 -   Public data repositories unlock "dark data"
 
 </h2>
 :::
 
 ::: {.column width="58%"}
-![Bertram, M.G. et al 2023](images/open.jpg){fig-align="center" width="7in"}
+![Bertram et al. 2023](images/open.jpg){fig-align="center" width="7in"}
 :::
 :::
 
@@ -216,11 +216,11 @@ The adoption of open science principles has and will almost certainly continue t
 With open science principles our colleagues can verify and error check our research at a much more efficient pace by providing the raw data, code for analysis, and manuscript all in a reproducible repository.
 
 Which brings me to my final point, take a moment and think about all the data you or a student of yours has collected.
-Is that data <!--# Minor point - Some would argue that "data" is plural: "Are those data....." -->just sitting on a hard drive?
+Are those data just sitting on a hard drive?
 Those are dark data, and I suspect we could pool all the dark data in this room and have a readily available supply of data for endless graduate students.
-<!--# A key point is that dark data have a high likelihood of being lost over time.  -->
 
-So utilize public data repositories, share your data, <!--# Add "make your workflow transparent," --> and lets work together to uncover the answers hidden in our data.
+
+So utilize public data repositories, share your data, make your workflow transparent, and lets work together to uncover the answers hidden in our data.
 
 Thank you
 :::
