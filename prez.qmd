@@ -35,9 +35,6 @@ $~$
 Good Afternoon, my name is Jake Eisaguirre and I am the Data Manager for RIBBiTR.
 We are an institute that studies the resilience in living systems using amphibian resilience to disease and other stressors as our test case.
 At RIBBiTR we have a lot of fascinating research going on, however I am going to be discussing the application of "open science" at RIBBiTR and the value it can bring to science as a whole.
-
-CORI: Maybe say we are studying resilience in living systems using amphibian resilience to disease and other stressors as our test case.
-I say this because we are on the hook with NSF to do more than study frogs :) Slides look great so far though.
 :::
 
 ------------------------------------------------------------------------
@@ -112,11 +109,18 @@ Including to those who might not have access to proprietary software.
 ::: {.fragment .r-stack .current-visible fragment-index="6"}
 ![](images/dataone.png){fig-align="center" width="6in"}
 :::
-
-
-
 :::
 :::
+:::
+
+::: notes
+At RIBBiTR we have been doing our best to promote and adhere to open science principles.
+
+In the realm of Accessibility we have an internal PostgreSQL relational database stored on an AWS server.
+We have created a front end webapp to allow researchers to explore and download data.
+We strongly recommend researchers to utilize open source software like RStudio, Jupyter Lab, and DBeaver.
+Following completion of our grant the database will be stored in a public repository like DataOne.
+And finally, when possible we publish in open access journals.
 :::
 
 ## Open Science at RIBBiTR {.smaller transition="none" transition-speed="fast"}
@@ -139,6 +143,14 @@ Including to those who might not have access to proprietary software.
 ::: {.column width="58%"}
 ![](images/reproducible_pipeline.png){fig-align="center" width="6in" height="4in"}
 :::
+:::
+
+::: notes
+The image here illustrates one example of a reproducible workflow at RIBBiTR.
+We collect data using the Fulcrum app.
+Researchers then create a back end connection to the cloud hosted database where they query and analyze the data of interest in RStudio.
+Researchers then utilize quarto documents to develop and collaborate on manuscripts through git and github.
+Finally the entire reproducible repository is published to a journal.
 :::
 
 ------------------------------------------------------------------------
@@ -169,32 +181,9 @@ Including to those who might not have access to proprietary software.
 
 
 ::: notes
-At RIBBiTR we have been doing our best to promote and adhere to open science principles.
-
-In the realm of Accessibility we have an internal PostgreSQL relational database stored on an AWS server.
-We have created a front end webapp to allow researchers to explore and download data.
-We strongly recommend researchers to utilize open source software like RStudio, Jupyter Lab, and DBeaver.
-Following completion of our grant the database will be stored in a public repository like DataOne.
-And finally, when possible we publish in open access journals.
-
-The image here illustrates one example of a reproducible workflow at RIBBiTR.
-We collect data using the Fulcrum app.
-Researchers then create a back end connection to the cloud hosted database where they query and analyze the data of interest in RStudio.
-Researchers then utilize quarto documents to develop and collaborate on manuscripts through git and github.
-Finally the entire reproducible repository is published to a journal.
-
 As for inclusive: we at RIBBiTR have worked very hard to promote and build our early career researcher community.
 Our course based undergraduate research experience trains and educates undergraduates, through the lens of open science, with lab and field based protocols.
 We also have our pilot and exploratory project funding and our RIBBiTR 101 training sessions for RIBBiTR researchers and associated researchers.
-
-CORI:
-
-Under accessibility, instead of asking whether researchers have access to our papers maybe say "anyone who wants it" have access to our papers.
-This is in the spirit of making our work accessible to policy makers, general public, etc.
-
-I think what you have for inclusivity is fine but if you wanted to make the talking points a little more tailored you could mention that we are working to incroporate open science principals and work with these tools into our CURE courses and providing training to an ever larger audience through our RIBBiTR 101s and PEP project awardees.
-But if you don't have time I think what you have is great.
-Don't need to cover everything cool about RIBBiTR in 3 minutes!
 :::
 
 ------------------------------------------------------------------------
@@ -212,7 +201,7 @@ Don't need to cover everything cool about RIBBiTR in 3 minutes!
 -   Facilitate collaboration
 -   Verification through efficient reproducible checking <!--# Not sure what "repoducible checking is". Reproducible analyses? Accessible code? Need to make sure that audience can connect to each bullet point - Meaning must be clearly articulated. -->
 -   Transparent sharing of data <!--# Meaning? Workflow is made transparent by Open Science. Not sure how Open Science makes sharing transparent.  -->
--   Public data repositories unlock dark data <!--# "dark data" should be in quotes -->
+-   Public data repositories unlock "dark data"
 
 </h2>
 :::
