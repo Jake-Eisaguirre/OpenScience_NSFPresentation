@@ -69,14 +69,14 @@ Including to those who might not have access to proprietary software.
 
 ------------------------------------------------------------------------
 
-## Open Science at RIBBiTR {.smaller auto-animate="true"}
+## Open Science at RIBBiTR {.smaller transition="none" transition-speed="fast"}
 
 <hr color = #CADC30>
 
 ::: columns
 ::: {.column width="42%"}
-::: {.fragment .fade-out fragment-index="7"}
-<h2 style="font-size: 14.5pt;">
+
+<h2 style="font-size: 14.5pt; vertical-align:top;">
 
 1.  Accessible
     -   Cloud based PostgreSQL Database
@@ -85,30 +85,8 @@ Including to those who might not have access to proprietary software.
     -   Database will be made public upon grant completion
     -   Publish in open access journals when possible
 
-</h2> <!--# I suggest having the text for #1, 2, and 3 (i.e., Accessible, Reproducible, Inclusive) be in the same place (top-aligned) on each of these three slides. The text for the "Inclusive" slide is too close to the bottom margin. -->
-:::
-
-::: {.fragment .fade-in-then-out fragment-index="7"}
-<h2 style="font-size: 14.5pt;">
-
-2.  Reproducible
-    -   Reproducible analysis in R and Python
-    -   Quarto manuscripts, documents, and presentations
-    -   Collaboration with Git/Github in RStudio (R) and Jupyter Notebook (Python)
-
 </h2>
-:::
 
-::: {.fragment .fade-in fragment-index="8"}
-<h2 style="font-size: 14.5pt;">
-
-3.  Inclusive
-    -   Course-based Undergraduate Research Experience - CURE
-    -   Pilot and Exploratory Projects funding - PEP
-    -   RIBBiTR 101 Training Sessions - R101
-
-</h2>
-:::
 :::
 
 ::: {.column width="58%"}
@@ -135,16 +113,60 @@ Including to those who might not have access to proprietary software.
 ![](images/dataone.png){fig-align="center" width="6in"}
 :::
 
-::: {.fragment .r-stack .current-visible fragment-index="7"}
-![](images/reproducible_pipeline.png){fig-align="center" width="6in" height="4in"}
+
+
+:::
+:::
 :::
 
-::: {.fragment .r-stack fragment-index="8"}
+## Open Science at RIBBiTR {.smaller transition="none" transition-speed="fast"}
+
+<hr color = #CADC30>
+
+::: columns
+::: {.column width="42%"}
+<h2 style="font-size: 14.5pt; vertical-align:top;">
+
+2.  Reproducible
+    -   Reproducible analysis in R and Python
+    -   Quarto manuscripts, documents, and presentations
+    -   Collaboration with Git/Github in RStudio (R) and Jupyter Notebook (Python)
+
+</h2>
+
+:::
+
+::: {.column width="58%"}
+![](images/reproducible_pipeline.png){fig-align="center" width="6in" height="4in"}
+:::
+:::
+
+------------------------------------------------------------------------
+
+
+## Open Science at RIBBiTR {.smaller transition="none" transition-speed="fast"}
+
+<hr color = #CADC30>
+
+::: columns
+::: {.column width="42%"}
+<h2 style="font-size: 14.5pt; vertical-align:top;">
+
+3.  Inclusive
+    -   Course-based Undergraduate Research Experience - CURE
+    -   Pilot and Exploratory Projects funding - PEP
+    -   RIBBiTR 101 Training Sessions - R101
+
+</h2>
+
+:::
+
+::: {.column width="58%"}
 ![](images/cure.jpg){fig-align="center" width="6in" height="3.9in"}
 :::
 :::
-:::
-:::
+
+
 
 ::: notes
 At RIBBiTR we have been doing our best to promote and adhere to open science principles.
