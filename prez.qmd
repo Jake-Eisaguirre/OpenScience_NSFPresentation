@@ -209,7 +209,7 @@ We also have our pilot and exploratory project funding and our RIBBiTR 101 train
 ::: {.column width="58%"}
 ![Bertram et al. 2023](images/open.jpg){fig-align="center" width="7in"}
 :::
-:::
+::: 
 
 ::: notes
 The adoption of open science principles has and will almost certainly continue to increase the efficiency and quality of research, allow for expansion of innovation, and facilitate collaboration.
